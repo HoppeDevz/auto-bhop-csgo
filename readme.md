@@ -14,4 +14,4 @@
   - forceJumpOffset = 0x5278DDC
   - groundFlag = localPlayerOffset + 0x104
 
-<img src="https://c.tenor.com/VRpKoJQJpPAAAAAC/bhop-awesome.gif"/>
+![](bhop-awesome.gif)
