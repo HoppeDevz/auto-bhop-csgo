@@ -1,0 +1,8 @@
+C:\Users\gabri\Desktop\Hackkk\Hackkk\Hackkk\bin\Debug\Hackkk.exe.config
+C:\Users\gabri\Desktop\Hackkk\Hackkk\Hackkk\bin\Debug\Hackkk.exe
+C:\Users\gabri\Desktop\Hackkk\Hackkk\Hackkk\bin\Debug\Hackkk.pdb
+C:\Users\gabri\Desktop\Hackkk\Hackkk\Hackkk\obj\Debug\Hackkk.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\Hackkk\Hackkk\Hackkk\obj\Debug\Hackkk.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Desktop\Hackkk\Hackkk\Hackkk\obj\Debug\Hackkk.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Hackkk\Hackkk\Hackkk\obj\Debug\Hackkk.exe
+C:\Users\gabri\Desktop\Hackkk\Hackkk\Hackkk\obj\Debug\Hackkk.pdb
